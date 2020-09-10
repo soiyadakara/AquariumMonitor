@@ -18,3 +18,13 @@ ESP8266で水槽の状態をモニタする話
 |A/D変換器|ADS1115|https://www.adafruit.com/product/1085 のコピー品|
 |12Vスイッチ|MP4401|MOSFETアレイ|
 |CO2リレー||Aliexで購入、12VでON/OFF可能なもの|
+
+## 参考
+
+* https://github.com/esp8266/Arduino
+* https://github.com/adafruit/Adafruit_SSD1306
+* https://github.com/adafruit/Adafruit_HDC1000_Library
+* https://github.com/milesburton/Arduino-Temperature-Control-Library
+* https://github.com/adafruit/Adafruit_ADS1X15
+* https://github.com/smdn/PseudoMuninNode
+* https://github.com/crankyoldgit/IRremoteESP8266
